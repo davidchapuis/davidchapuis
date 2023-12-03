@@ -4,7 +4,7 @@
 # 💻 Tech Stack:
 
 
-![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)![Pandas](https://img.shields.io/badge/pandas-white?style=for-the-badge&logo=pandas)![Numpy](https://img.shields.io/badge/numpy-white?style=for-the-badge&logo=numpy)![Plotly](https://img.shields.io/badge/plotly-white?style=for-the-badge&logo=plotly)
+![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)![Numpy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)![Plotly](https://img.shields.io/badge/plotly-black?style=for-the-badge&logo=plotly)
 
 <!--
 **davidchapuis/davidchapuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
