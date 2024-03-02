@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hello
 
-I am David Chapuis, a software engineer who likes to automate things and solve problems with code.
+I am David Chapuis, a software engineer who likes to automate things and solve problems with code. I also share my knowledge through mentoring and tech writing.
 
 
 ## &#x1f4c8; GitHub Stats
