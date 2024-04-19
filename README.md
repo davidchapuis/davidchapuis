@@ -4,6 +4,15 @@ I am David Chapuis, a software engineer who likes to automate things and solve p
 
 I also share my knowledge through mentoring and tech writing.
 
+## Tech writing
+* [Article about the PyData Global Scholarship](https://dev.to/davidchapuis/3-top-reasons-to-participate-in-the-pydata-global-impact-scholarship-program-4oe6)
+* [Python solution for the Longest Palindrome LeetCode problem](https://dev.to/davidchapuis/code-interview-prep-longest-palindrome-python-435b)
+
+
+## Mentoring
+* [Free 1:1 mentoring sessions on Mentoring Club](https://www.mentoring-club.com/the-mentors/david-chapuis-813)
+* [Mentoring early-career and transitioning fellows with ProgramEquity](https://www.programequity.com/)
+
 
 ## &#x1f4c8; GitHub Stats
 
