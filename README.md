@@ -14,7 +14,7 @@ I am David Chapuis, a software engineer, mentor and tech writer with 3 years of 
 
 ## Mentoring
 * [Free 1:1 mentoring sessions on Mentoring Club](https://www.mentoring-club.com/the-mentors/david-chapuis-813)
-* [Mentoring early-career and transitioning fellows with ProgramEquity](https://github.com/OpenSourceFellows/amplify)
+* [Mentoring for early-career and transitioning fellows with ProgramEquity](https://github.com/OpenSourceFellows/amplify)
 
 
 
