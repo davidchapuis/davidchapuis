@@ -6,10 +6,12 @@ I am David Chapuis, a software engineer, mentor and tech writer with 3 years of 
 * [E-commerce data extraction (Web Scraping)](https://github.com/davidchapuis/web-scraper)
 * [Alpaca News connector](https://github.com/davidchapuis/alpaca-news-connector)
 
-## Tech writing
-* [Stream Real-Time Stock Prices and Analyze them with Numpy](https://github.com/bytewax/streaming-numpy-finance)
-* [3 Reasons to Participate in the PyData Global Impact Scholarship](https://dev.to/davidchapuis/3-top-reasons-to-participate-in-the-pydata-global-impact-scholarship-program-4oe6)
-* [Python solution for the Longest Palindrome LeetCode problem](https://dev.to/davidchapuis/code-interview-prep-longest-palindrome-python-435b)
+## Tech writing, videos and talks
+* [Stream Real-Time Stock Prices and Analyze them with Numpy (blog)](https://github.com/bytewax/streaming-numpy-finance)
+* [3 Reasons to Participate in the PyData Global Impact Scholarship (blog)](https://dev.to/davidchapuis/3-top-reasons-to-participate-in-the-pydata-global-impact-scholarship-program-4oe6)
+* [Python solution for the Longest Palindrome LeetCode problem (blog)](https://dev.to/davidchapuis/code-interview-prep-longest-palindrome-python-435b)
+* [Build a web app in Python (talk at PyData Global](https://www.youtube.com/watch?v=ZFEXbaaIm7M)
+* [Criar uma web app em Python com Dash (Blog)](https://community.revelo.com.br/criar-uma-web-app-em-python-com-dash/)
 
 ## Mentoring
 * [Free 1:1 mentoring sessions on Mentoring Club](https://www.mentoring-club.com/the-mentors/david-chapuis-813)
