@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hello
 
-Back-end and data Engineer with experience in client-facing projects for companies in France, United States, United Arab Emirates and Australia.
+Olá! I am David Chapuis, a back-end and data Engineer with experience in client-facing projects for companies in France, United States, United Arab Emirates and Australia.
 Specialized in automation, large-scale data processing, and API integration, using technologies such as Python, PostgreSQL, AWS (S3, Lambda, Fargate, EC2, Secrets, Step Functions) and Docker.
 Proven experience in developing efficiency-driven solutions, including scraping bots, matching algorithms, and advertising campaign management systems.
 Active in open-source projects, mentoring new contributors and implementing modern practices like CI/CD.
