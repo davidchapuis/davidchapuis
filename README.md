@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hello
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hello / Olá !
 
-Olá! I am David Chapuis, a back-end and data Engineer with experience in client-facing projects for companies in France, United States, United Arab Emirates and Australia.
+I am David Chapuis, a back-end and data Engineer with experience in client-facing projects for companies in France, United States, United Arab Emirates and Australia.
 
 Specialized in automation, large-scale data processing, and API integration, using technologies such as Python, PostgreSQL, AWS (S3, Lambda, Fargate, EC2, Secrets, Step Functions) and Docker.
 
